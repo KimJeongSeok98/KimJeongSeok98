@@ -1,5 +1,5 @@
 I'm JeongSeok Kim Hello
-<a href="https://velog.io/@KimJeongSeok98"><img src="https://https://img.shields.io/badge/KJS-JSP-brightgreen"/></a>
+<a href="https://velog.io/@KimJeongSeok98"><img src="https://img.shields.io/badge/KJS-brightgreen?style=flat-square&logo=JSP&logoColor=white%22"/></a>
 <!--
 **KimJeongSeok98/KimJeongSeok98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
