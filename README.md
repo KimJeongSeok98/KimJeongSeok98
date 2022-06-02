@@ -1,5 +1,5 @@
-I'm JeongSeok Kim from Republic of Korea.
-<img src="https://https://img.shields.io/badge/KJS-JSP-brightgreen"/>
+I'm JeongSeok Kim Hello
+<a href="https://velog.io/@KimJeongSeok98"><img src="https://https://img.shields.io/badge/KJS-JSP-brightgreen"/></a>
 <!--
 **KimJeongSeok98/KimJeongSeok98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
