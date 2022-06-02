@@ -1,6 +1,7 @@
 Hello<br>
 My Name<a href="https://github.com/KimJeongSeok98"><img src="https://img.shields.io/badge/KJS-brightgreen?style=flat-square&logo=JSP&logoColor=white%22"/></a><br>
-I Studying <a href="https://img.shields.io/badge/JSP-blue"><img src="https://img.shields.io/badge/JSP-blue?style=flat-square&logo=JSP&logoColor=white%22"/></a><br>
+I Studying <a href="https://img.shields.io/badge/JSP-blue"><img src="https://img.shields.io/badge/JSP-blue?style=flat-square&logo=JSP&logoColor=white%22"/></a>
+<a href="https://img.shields.io/badge/JAVA-007396?%20style=flat&logo=Java&logoColor=white"<img src="https://img.shields.io/badge/JAVA-007396?%20style=flat&logo=Java&logoColor=white"></
 <!--
 **KimJeongSeok98/KimJeongSeok98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
